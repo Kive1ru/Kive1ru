@@ -1,16 +1,30 @@
-### Hi there 👋
+## Yoo, I'm Kylin Guo 👋
 
-<!--
-**Kive1ru/Kive1ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-jiahao--kylin--guo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiahao-kylin-guo/)](https://www.linkedin.com/in/jiahao-kylin-guo/)
+[![Instagram Badge](https://img.shields.io/badge/-kylin4real-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/jiahao-kylin-guo/)](https://www.instagram.com/kylin4real/)
+[![Twitter Badge](https://img.shields.io/badge/-@Kive1ru-white?style=flat-square&logoColor=blue&logo=Twitter&labelColor=white&link=https://twitter.com/Kive1ru)](https://twitter.com/Kive1ru)
+[![Gmail Badge](https://img.shields.io/badge/-kiveiruguo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiveiruguo@gmail.com)](kiveiruguo@gmail.com)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kive1ru.Kive1ru)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Master Student** at [Carnegie Mellon University](https://www.cmu.edu/), 01/2024 - Present. Electrical and Computer Engineering.
+- 🇺🇸 [University of California, Irvine](https://uci.edu/) - B.S. in Computing Science; B.A. in Economics, 09/2019 - 06/2023. Graduated **with 👨‍🎓 Distinction**.
+- ⚡ 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Kive1ru&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kive1ru&hide=TeX&layout=compact)
