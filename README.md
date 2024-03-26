@@ -7,7 +7,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kive1ru.Kive1ru)
 
 
-- 🎓 **Master Student** at [Carnegie Mellon University](https://www.cmu.edu/), 01/2024 - Present. Electrical and Computer Engineering.
+- 🎓 [Carnegie Mellon University](https://www.cmu.edu/) - M.S. in Electrical and Computer Engineering, 01/2024 - Present.
 - 🇺🇸 [University of California, Irvine](https://uci.edu/) - B.S. in Computing Science; B.A. in Economics, 09/2019 - 06/2023. Graduated **with 👨‍🎓 Distinction**.
 - ⚡ 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
