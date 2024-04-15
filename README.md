@@ -1,4 +1,4 @@
-## Yoo, I'm Kylin Guo 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Jiahao+Guo;Software+Engineer%F0%9F%92%BB;Artificial+Intelligence%F0%9F%A4%96)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-jiahao--kylin--guo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiahao-kylin-guo/)](https://www.linkedin.com/in/jiahao-kylin-guo/)
 [![Instagram Badge](https://img.shields.io/badge/-kylin4real-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/jiahao-kylin-guo/)](https://www.instagram.com/kylin4real/)
