@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi!+I'm+Jiahao+Guo;Software+Engineer%F0%9F%92%BB;Artificial+Intelligence%F0%9F%A4%96)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-jiahao--kylin--guo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiahao-kylin-guo/)](https://www.linkedin.com/in/jiahao-kylin-guo/)
+[![Linkedin Badge](https://img.shields.io/badge/-guojiahao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guojiahao/)](https://www.linkedin.com/in/guojiahao/)
 [![Instagram Badge](https://img.shields.io/badge/-kylin4real-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/jiahao-kylin-guo/)](https://www.instagram.com/kylin4real/)
 [![Twitter Badge](https://img.shields.io/badge/-@Kive1ru-white?style=flat-square&logoColor=blue&logo=Twitter&labelColor=white&link=https://twitter.com/Kive1ru)](https://twitter.com/Kive1ru)
 [![Gmail Badge](https://img.shields.io/badge/-kiveiruguo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kiveiruguo@gmail.com)](kiveiruguo@gmail.com)
